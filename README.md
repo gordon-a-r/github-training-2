@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. change
+Repo for the `GitHub Actions Fundamentals` training. change  skip
 
 ## 👉 Objectives
 
